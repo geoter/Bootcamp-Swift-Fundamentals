@@ -2,9 +2,9 @@
 
 Swift fundamentals with exercises.
 
-# Table of Contents 
+# Theory
 
-1. [The Basics] (https://github.com/geoter/Swift-Fundamentals/blob/main/theory/1.%20The%20Basics.md)
+1. [The Basics](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/1.%20The%20Basics.md)
 2. [Basic Operatos] (theory/2. Basic Operators.md)
 
 ## Exercises
