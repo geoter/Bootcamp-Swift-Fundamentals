@@ -19,9 +19,9 @@ Swift fundamentals with exercises.
     5. [Properties](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/9.%20Properties.md)
     6. [Methods](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/10.%20Methods.md)
 9. [Error Handling](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/11.%20Error%20Handling.md)
-10. [Memory management](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/10.%20Memory%20Management.md)
-11. [Protocols](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/11.%20Protocols.md)
-12. [Generics](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/12.%20Generics.md)
+10. [Protocols](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/11.%20Protocols.md)
+11. [Generics](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/12.%20Generics.md)
+12. [Memory management](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/10.%20Memory%20Management.md)
 
 
 ## Exercises
