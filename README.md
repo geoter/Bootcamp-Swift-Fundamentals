@@ -65,7 +65,6 @@ Swift fundamentals with exercises.
    * One-sided range 
    * Logical operators `&&, ||, !a`
    
-   [Video - Swift Basic Operators](https://youtu.be/Y2ThBhbc71Q)
    
 ## 3. [Strings and Characters](https://docs.swift.org/swift-book/LanguageGuide/StringsAndCharacters.html)
 
@@ -88,7 +87,6 @@ Swift fundamentals with exercises.
    * Substrings
    * Prefix and Suffix
    
-   1. [Video - Strings and Characters](https://youtu.be/VTES2xGtS1s)
    
 ## 4. [Collection Types](https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html)
 
@@ -104,15 +102,6 @@ Swift fundamentals with exercises.
    * Dictionary
    * Set
    * enumerated()
-   
-   #### Arrays
-   1. [Video - Arrays](https://youtu.be/nV8yvXoJOBo)
-   
-   #### Sets
-   1. [Video - Sets](https://youtu.be/ug2RYDrJnuo)
-   
-   #### Dictionaries
-   1. [Video - Dictionaries](https://youtu.be/Gd_de-TNAwQ)
    
 ## 5. [Control Flow](https://docs.swift.org/swift-book/LanguageGuide/ControlFlow.html)
 
@@ -142,7 +131,6 @@ Swift fundamentals with exercises.
    * iterate 
    * enumerated()
    
-   1. [Video: Control Flow](https://youtu.be/AWnnAeK18NI)
     
 ## 6. [Functions](https://docs.swift.org/swift-book/LanguageGuide/Functions.html)
 
@@ -165,7 +153,6 @@ Swift fundamentals with exercises.
    * implicit return 
    * argument 
    
-   1. [Video: Functions](https://youtu.be/E3lmXVUdj38)
    
 ## 7. [Closures](https://docs.swift.org/swift-book/LanguageGuide/Closures.html)
 
@@ -184,8 +171,6 @@ Swift fundamentals with exercises.
    * @escaping closure 
    * implicit return 
    * multiple trailing closures 
-   
-   1. [Video: Closures](https://youtu.be/Q0fahJeV4Zo)
    
    
 ## 9. [Structures](https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html)
@@ -473,7 +458,7 @@ Swift fundamentals with exercises.
 
 ## Exercises
 
-Complete the exercise in Swift Playground or an online IDE like [repl.it](https://repl.it) . 
+Complete the exercise in Swift Playground or an online IDE like [programiz](https://www.programiz.com/swift/online-compiler/) . 
 
 1. [The Basics, Basic Operators](https://github.com/alexpaul/Swift-Fundamentals/blob/main/The-Basics-Basic-Operators-Exercises.md)
 1. [Strings and Characters](https://github.com/alexpaul/Swift-Fundamentals/blob/main/Strings-and-Characters-Exercises.md)

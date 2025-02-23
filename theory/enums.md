@@ -1,4 +1,4 @@
-[Enumerations](https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html)
+[Enumerations](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/enumerations/)
 
    ```swift 
    enum AppError: Error {
