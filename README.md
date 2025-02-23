@@ -14,10 +14,11 @@ Swift fundamentals with exercises.
 8. [Classes](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/8.%20Classes.md)
     1. [Inheritance](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/11.%20Inheritance.md)
     2. [Deinitialization](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/12.%20Deinitialization.md)
-9. [Properties](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/9.%20Properties.md)
-10. [Methods](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/10.%20Methods.md)
-11. [Optional Chaining](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/13.%20Optional%20Chaining.md)
-12. [Type Casting](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/15.%20Type%20Casting.md)
+    3. [Type Casting](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/15.%20Type%20Casting.md)
+    4. [Optional Chaining](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/13.%20Optional%20Chaining.md)
+    5. [Properties](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/9.%20Properties.md)
+    6. [Methods](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/10.%20Methods.md)
+9. [Error Handling](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/11.%20Error%20Handling.md)
 
 
 ## Exercises
