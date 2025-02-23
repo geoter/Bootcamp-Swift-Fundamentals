@@ -28,15 +28,15 @@ Complete the exercise in Swift Playground or an online IDE like [swiftfiddle](ht
 TODO
 
 
-## Additional Practice (Optional)
+## Additional Resources (Optional)
 
 To evaluate your Swift fundamentals work on any of the following projects as a command line macOS application. 
 
-* Black Jack 
-* Mad Libs Generator
-* Rock, Paper, Scissors
-* Tic Tac Toe 
-* Hangman 
-* Calculator
-* Trivia Game
-* Text-Based Adventure Game
+### Theory
+* [Exercism](https://exercism.org/tracks/swift/concepts)
+
+### Practice
+* [CodeAcademy](https://www.codecademy.com/projects/language/swift/practice) 
+* [Test your Swift](https://www.hackingwithswift.com/test)
+* [Edabit 350+ exercise](https://edabit.com/challenges/swift)
+* [w3](https://www.w3resource.com/swift-programming-exercises/array/index.php)
