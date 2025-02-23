@@ -13,21 +13,36 @@ Swift fundamentals with exercises.
    #### Glossary
    
    * Type Safety
+      * Data types (Int, Float, Double, Bool)
    * Variables 
+      * Type Annotation 
+      * Type Inference
    * Constants 
-   * Type Annotation 
-   * Type Inference 
-   * String 
+   * String
+      * String literal 
+      * Multi-line String 
+      * Special characters / escape characters 
+      * String initialization syntax
+      * Value types 
+      * Character 
+      * Concatenation
+      * String interpolation 
+      * Unicode
+      * String.Index
+      * Substrings
+      * Prefix and Suffix
    * Int 
    * Float
    * Double 
    * Boolean 
    * Tuples
+      * typealias
+   * [Enums](theory/enums.md)
    * Optionals 
    * Optional Binding 
    * nil-coalescing
    
-   [Video: Swift, The Basics](https://youtu.be/wrtuio49fHM)
+  [Practice Exercises](https://github.com/geoter/Swift-Fundamentals/blob/main/The-Basics-Basic-Operators-Exercises.md)
    
 ## 2. [Basic Operators](https://docs.swift.org/swift-book/LanguageGuide/BasicOperators.html)
 
@@ -171,31 +186,7 @@ Swift fundamentals with exercises.
    * multiple trailing closures 
    
    1. [Video: Closures](https://youtu.be/Q0fahJeV4Zo)
-
    
-## 8. [Enumerations](https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html)
-
-   ```swift 
-   enum AppError: Error {
-     case decodingError(Error) 
-     case badURL(String)
-     case badStatusCode(String)
-   }
-   ```
-   
-   #### Glossary
-   
-   * `CaseIterable`
-   * Associated Values
-   * Raw Values 
-   * Implicitly assigned Raw Values 
-   
-   ##### Introduction to `enums`
-   1. [Video: Enumerations](https://youtu.be/XXaaYV1_d-Y)
-   
-   ##### Methods and Properties in `enums`
-   1. [Video: Enums - Methods and Properties](https://youtu.be/AGxEa4G0ADk)
-
    
 ## 9. [Structures](https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html)
 
