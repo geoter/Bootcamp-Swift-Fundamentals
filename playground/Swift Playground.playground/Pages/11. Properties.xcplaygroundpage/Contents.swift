@@ -12,7 +12,7 @@ import Foundation
 
  ### Task 3: Instantiate and manipulate objects
  - Instantiate a `Friends` object with an initial list containing one `Friend` object.
- - Add a new `Friend` object to the `friendsList`.
+ - Add a new `Friend` object to the `friendsList`. (Compiler Error)
  - Increment the `friends` property of the first `Friend` object in the list.
  - Print the updated number of friends of the first `Friend` object.
 
