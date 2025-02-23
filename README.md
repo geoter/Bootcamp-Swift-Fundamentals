@@ -12,12 +12,12 @@ Swift fundamentals with exercises.
 6. [Closures](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/7.%20Closures.md)
 7. [Structs](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/7.%20Structs.md)
 8. [Classes](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/8.%20Classes.md)
+    1. [Inheritance](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/11.%20Inheritance.md)
+    2. [Deinitialization](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/12.%20Deinitialization.md)
 9. [Properties](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/9.%20Properties.md)
 10. [Methods](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/10.%20Methods.md)
-11. [Inheritance](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/11.%20Inheritance.md)
-12. [Deinitialization](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/12.%20Deinitialization.md)
-13. [Optional Chaining](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/13.%20Optional%20Chaining.md)
-14. [Type Casting](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/15.%20Type%20Casting.md)
+11. [Optional Chaining](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/13.%20Optional%20Chaining.md)
+12. [Type Casting](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/15.%20Type%20Casting.md)
 
 
 ## Exercises
