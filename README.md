@@ -26,7 +26,7 @@ Swift fundamentals with exercises.
 
 ## Exercises
 
-Complete the exercise in Swift Playground or an online IDE like [swiftfiddle](https://swiftfiddle.com). 
+Complete the exercises in Swift Playground or an online IDE like [swiftfiddle](https://swiftfiddle.com). 
 
 1. [Exercises](https://github.com/geoter/Swift-Fundamentals/blob/main/exercises/)
 
