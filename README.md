@@ -25,7 +25,7 @@ Swift fundamentals with exercises.
 
 Complete the exercise in Swift Playground or an online IDE like [swiftfiddle](https://swiftfiddle.com). 
 
-TODO
+1. [Exercises](https://github.com/geoter/Swift-Fundamentals/blob/main/exercises/)
 
 
 ## Additional Resources (Optional)
