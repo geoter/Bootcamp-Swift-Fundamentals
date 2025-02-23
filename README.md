@@ -2,12 +2,6 @@
 
 Swift fundamentals with exercises.
 
-> Attention developer: Please read the Swift Language Guide on a topic or watch the YouTube complimentary video before going onto the `Exercises` section below.
-
-<a href="https://www.buymeacoffee.com/alexpaulnyc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-# [YouTube Playlist - Swift Fundamentals](https://youtube.com/playlist?list=PLjdVqs-1R8wHFc6iVGkXJgEZ6BRW-S3L_)
-
 # Table of Contents 
 
 ## 1. [The Basics](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
@@ -80,7 +74,6 @@ Swift fundamentals with exercises.
    * Prefix and Suffix
    
    1. [Video - Strings and Characters](https://youtu.be/VTES2xGtS1s)
-   2. [Strings and Characters code examples](https://repl.it/@alexpaul/StringsAndCharacters#main.swift)
    
 ## 4. [Collection Types](https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html)
 
@@ -99,15 +92,12 @@ Swift fundamentals with exercises.
    
    #### Arrays
    1. [Video - Arrays](https://youtu.be/nV8yvXoJOBo)
-   2. [Arrays code examples](https://repl.it/@alexpaul/Collection-Types-Arrays#main.swift)
    
    #### Sets
    1. [Video - Sets](https://youtu.be/ug2RYDrJnuo)
-   2. [Sets code examples](https://repl.it/@alexpaul/Collection-Types-Sets#main.swift)
    
    #### Dictionaries
    1. [Video - Dictionaries](https://youtu.be/Gd_de-TNAwQ)
-   2. [Dictionaries code examples](https://repl.it/@alexpaul/Collection-Types-Dictionaries#main.swift)
    
 ## 5. [Control Flow](https://docs.swift.org/swift-book/LanguageGuide/ControlFlow.html)
 
@@ -138,7 +128,6 @@ Swift fundamentals with exercises.
    * enumerated()
    
    1. [Video: Control Flow](https://youtu.be/AWnnAeK18NI)
-   2. [Control Flow code examples](https://repl.it/@alexpaul/Control-Flow#main.swift)
     
 ## 6. [Functions](https://docs.swift.org/swift-book/LanguageGuide/Functions.html)
 
@@ -162,7 +151,6 @@ Swift fundamentals with exercises.
    * argument 
    
    1. [Video: Functions](https://youtu.be/E3lmXVUdj38)
-   2. [Functions code examples](https://repl.it/@alexpaul/Functions#main.swift)
    
 ## 7. [Closures](https://docs.swift.org/swift-book/LanguageGuide/Closures.html)
 
@@ -183,7 +171,6 @@ Swift fundamentals with exercises.
    * multiple trailing closures 
    
    1. [Video: Closures](https://youtu.be/Q0fahJeV4Zo)
-   2. [Closures code examples](https://repl.it/@alexpaul/Closures#main.swift)
 
    
 ## 8. [Enumerations](https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html)
@@ -205,11 +192,9 @@ Swift fundamentals with exercises.
    
    ##### Introduction to `enums`
    1. [Video: Enumerations](https://youtu.be/XXaaYV1_d-Y)
-   2. [Enums code examples](https://repl.it/@alexpaul/Enumerations#main.swift)
    
    ##### Methods and Properties in `enums`
    1. [Video: Enums - Methods and Properties](https://youtu.be/AGxEa4G0ADk)
-   1. [Code examples](https://repl.it/@alexpaul/Enums-Methods-and-Properties#main.swift)
 
    
 ## 9. [Structures](https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html)
