@@ -27,7 +27,7 @@ Complete the exercise in Swift Playground or an online IDE like [swiftfiddle](ht
 TODO
 
 
-## Projects 
+## Additional Practice (Optional)
 
 To evaluate your Swift fundamentals work on any of the following projects as a command line macOS application. 
 
