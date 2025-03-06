@@ -37,6 +37,7 @@ To evaluate your Swift fundamentals work on any of the following projects as a c
 
 ### Theory
 * [Exercism](https://exercism.org/tracks/swift/concepts)
+* [Optionals](https://developer.apple.com/documentation/swift/optional)
 
 ### Practice
 * [CodeAcademy](https://www.codecademy.com/projects/language/swift/practice) 
