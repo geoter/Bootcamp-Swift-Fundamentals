@@ -24,9 +24,7 @@ Swift fundamentals with exercises.
 12. [Memory management](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/10.%20Memory%20Management.md)
 
 
-## Exercises
-
-Complete the exercises in Swift Playground or an online IDE like [swiftfiddle](https://swiftfiddle.com). 
+## Exercises 
 
 1. [Exercises](https://github.com/geoter/Swift-Fundamentals/blob/main/exercises/)
 
