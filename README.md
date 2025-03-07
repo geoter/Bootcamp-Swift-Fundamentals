@@ -54,6 +54,11 @@ To evaluate your Swift fundamentals work on any of the following projects as a c
 * [Exercism](https://exercism.org/tracks/swift/concepts)
 * [Optionals](https://developer.apple.com/documentation/swift/optional)
 
+
+### UIKit concepts
+* [Gesture Recognizers](https://medium.com/@nayananp/ios-gesture-recognizers-f24b693162f6)
+
+
 ### Practice
 * [CodeAcademy](https://www.codecademy.com/projects/language/swift/practice) 
 * [Test your Swift](https://www.hackingwithswift.com/test)
