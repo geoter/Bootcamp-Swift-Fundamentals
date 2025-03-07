@@ -45,9 +45,8 @@ Swift fundamentals with exercises.
 
 ### UIKit concepts
 * [Gesture Recognizers](https://medium.com/@nayananp/ios-gesture-recognizers-f24b693162f6)
-* [Autolayout](https://www.advancedswift.com/autolayout-vs-autoresizing-masks/)
-* [Autolayout 2](https://www.advancedswift.com/autolayout-vs-autoresizing-masks/)
-* [Autolayout 3](https://www.youtube.com/watch?v=27TFuaOpUsE&list=PL23Revp-82LI-MTPyLtvzTCDl-vJKwjlU)
+* [Autolayout vs Autoresizing Mask](https://www.advancedswift.com/autolayout-vs-autoresizing-masks/)
+* [Autolayout Playlist](https://www.youtube.com/watch?v=27TFuaOpUsE&list=PL23Revp-82LI-MTPyLtvzTCDl-vJKwjlU)
 * [View from XIB](https://medium.com/better-programming/swift-3-creating-a-custom-view-from-a-xib-ecdfe5b3a960)
 * [Scrollview with Autolayout](https://medium.com/@barteknowacki/uiscrollview-explained-uiscrollview-with-auto-layout-and-content-layout-guides-tutorial-77cf158a47e3)
 
