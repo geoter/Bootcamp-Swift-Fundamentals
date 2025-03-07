@@ -51,6 +51,7 @@ To evaluate your Swift fundamentals work on any of the following projects as a c
 * [Karin Prater](https://www.youtube.com/@SwiftyPlace)
 * [Exercism](https://exercism.org/tracks/swift/concepts)
 * [Optionals](https://developer.apple.com/documentation/swift/optional)
+* [Xcode files and folders](https://developer.apple.com/documentation/xcode/managing-files-and-folders-in-your-xcode-project) -> "Copy files to destination" is important to understand
 
 
 ### UIKit concepts
