@@ -38,9 +38,12 @@ To evaluate your Swift fundamentals work on any of the following projects as a c
 ### Theory - Need to read these
 * [Assets Catalog](https://www.youtube.com/watch?v=tfc8rrOEn2E) -> How to import and use images
 * [String Catalogs](https://www.youtube.com/watch?v=slOQbTacj4k) -> How to Localize-Translate your app
-
+* [CocoaPods](https://www.youtube.com/watch?v=QLm_3Ny_Fkg)
+* [Swift Package Manager - SPM](https://www.youtube.com/watch?v=cpsDnGQPPCs)
 
 ### Theory - Optional
+* [Paul Hudson](https://www.youtube.com/@twostraws)
+* [Paul Hudson website](https://www.hackingwithswift.com)
 * [Kodeco](https://www.kodeco.com)
 * [Sean Allen](https://www.youtube.com/@seanallen)
 * [iOS Academy](https://www.youtube.com/@iOSAcademy)
