@@ -38,6 +38,15 @@ Swift fundamentals with exercises.
 * [Swift Package Manager - SPM](https://www.youtube.com/watch?v=cpsDnGQPPCs)
 
 ### Theory - Optional
+* [Optionals](https://developer.apple.com/documentation/swift/optional)
+* [Xcode files and folders](https://developer.apple.com/documentation/xcode/managing-files-and-folders-in-your-xcode-project) -> "Copy files to destination" is important to understand
+* [iOS Simulator vs Android Emulator](https://www.browserstack.com/emulators-simulators)
+* [Exercism](https://exercism.org/tracks/swift/concepts)
+
+### UIKit concepts
+* [Gesture Recognizers](https://medium.com/@nayananp/ios-gesture-recognizers-f24b693162f6)
+
+### Tutorials and Tutors
 * [Paul Hudson](https://www.youtube.com/@twostraws)
 * [Paul Hudson website](https://www.hackingwithswift.com)
 * [Kodeco](https://www.kodeco.com)
@@ -47,14 +56,6 @@ Swift fundamentals with exercises.
 * [Lets Build that App](https://www.youtube.com/@LetsBuildThatApp)
 * [CodeWithChris](https://www.youtube.com/@CodeWithChris/videos)
 * [Karin Prater](https://www.youtube.com/@SwiftyPlace)
-* [Exercism](https://exercism.org/tracks/swift/concepts)
-* [Optionals](https://developer.apple.com/documentation/swift/optional)
-* [Xcode files and folders](https://developer.apple.com/documentation/xcode/managing-files-and-folders-in-your-xcode-project) -> "Copy files to destination" is important to understand
-* [iOS Simulator vs Android Emulator](https://www.browserstack.com/emulators-simulators)
-
-
-### UIKit concepts
-* [Gesture Recognizers](https://medium.com/@nayananp/ios-gesture-recognizers-f24b693162f6)
 
 
 ### Practice
