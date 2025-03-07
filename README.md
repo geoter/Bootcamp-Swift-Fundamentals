@@ -31,8 +31,6 @@ Swift fundamentals with exercises.
 
 ## Additional Resources
 
-To evaluate your Swift fundamentals work on any of the following projects as a command line macOS application. 
-
 ### Theory - Need to read these
 * [Assets Catalog](https://www.youtube.com/watch?v=tfc8rrOEn2E) -> How to import and use images
 * [String Catalogs](https://www.youtube.com/watch?v=slOQbTacj4k) -> How to Localize-Translate your app
