@@ -31,11 +31,23 @@ Complete the exercises in Swift Playground or an online IDE like [swiftfiddle](h
 1. [Exercises](https://github.com/geoter/Swift-Fundamentals/blob/main/exercises/)
 
 
-## Additional Resources (Optional)
+## Additional Resources
 
 To evaluate your Swift fundamentals work on any of the following projects as a command line macOS application. 
 
-### Theory
+### Theory - Need to read these
+* [Assets Catalog](https://www.youtube.com/watch?v=tfc8rrOEn2E) -> How to import and use images
+* [String Catalogs](https://www.youtube.com/watch?v=slOQbTacj4k) -> How to Localize-Translate your app
+
+
+### Theory - Optional
+* [Kodeco](https://www.kodeco.com)
+* [Sean Allen](https://www.youtube.com/@seanallen)
+* [iOS Academy](https://www.youtube.com/@iOSAcademy)
+* [Essential Developer](https://www.youtube.com/@EssentialDeveloper)
+* [Lets Build that App](https://www.youtube.com/@LetsBuildThatApp)
+* [CodeWithChris](https://www.youtube.com/@CodeWithChris/videos)
+* [Karin Prater](https://www.youtube.com/@SwiftyPlace)
 * [Exercism](https://exercism.org/tracks/swift/concepts)
 * [Optionals](https://developer.apple.com/documentation/swift/optional)
 
