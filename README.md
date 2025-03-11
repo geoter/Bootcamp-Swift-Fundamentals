@@ -75,7 +75,7 @@ Build a full app tutorials for practice
 
 ### Theory - Optional
 * [Optionals](https://developer.apple.com/documentation/swift/optional)
-* [Generics + UIKit](https://www.youtube.com/watch?v=K0IO4QvFxnM)
+* [Generics + UIKit](https://www.youtube.com/watch?v=K0IO4QvFxnM) <- could watch this
 * [Exercism](https://exercism.org/tracks/swift/concepts)
 
 
