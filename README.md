@@ -45,6 +45,18 @@ Finished project - MVVM: https://github.com/geoter/MVC2MVVM-finished
 * [Delegation pattern](https://www.youtube.com/watch?v=qiOKO8ta1n4)
 * [Delegation vs Closures](https://www.youtube.com/watch?v=nsWXSnlMMyA)
 ------
+
+### UIKit concepts (Must read)
+* [Diffable Datasources - TableView](https://www.youtube.com/watch?v=Q2SmtfaxuW8)
+* [CollectionView and TableView](https://www.youtube.com/playlist?list=PL23Revp-82LKu3pw5-0QhLvK_N7cHEZJZ)
+* [CollectionView Compositional Layout](https://www.youtube.com/watch?v=y1uXXVUu43o)
+* [View from XIB](https://medium.com/better-programming/swift-3-creating-a-custom-view-from-a-xib-ecdfe5b3a960)
+* [Autolayout Playlist](https://www.youtube.com/watch?v=27TFuaOpUsE&list=PL23Revp-82LI-MTPyLtvzTCDl-vJKwjlU)
+----
+* [Gesture Recognizers](https://medium.com/@nayananp/ios-gesture-recognizers-f24b693162f6)
+* [Autolayout vs Autoresizing Mask](https://www.advancedswift.com/autolayout-vs-autoresizing-masks/)
+* [Scrollview with Autolayout](https://medium.com/@barteknowacki/uiscrollview-explained-uiscrollview-with-auto-layout-and-content-layout-guides-tutorial-77cf158a47e3)
+
 #### Xcode related
 * [Assets Catalog](https://www.youtube.com/watch?v=tfc8rrOEn2E) -> How to import and use images
 * [String Catalogs](https://www.youtube.com/watch?v=slOQbTacj4k) -> How to Localize-Translate your app
@@ -56,17 +68,6 @@ Finished project - MVVM: https://github.com/geoter/MVC2MVVM-finished
 ### Theory - Optional
 * [Optionals](https://developer.apple.com/documentation/swift/optional)
 * [Exercism](https://exercism.org/tracks/swift/concepts)
-
-### UIKit concepts
-* [Diffable Datasources - TableView](https://www.youtube.com/watch?v=Q2SmtfaxuW8)
-* [CollectionView and TableView](https://www.youtube.com/playlist?list=PL23Revp-82LKu3pw5-0QhLvK_N7cHEZJZ)
-* [CollectionView Compositional Layout](https://www.youtube.com/watch?v=y1uXXVUu43o)
-* [View from XIB](https://medium.com/better-programming/swift-3-creating-a-custom-view-from-a-xib-ecdfe5b3a960)
-* [Autolayout Playlist](https://www.youtube.com/watch?v=27TFuaOpUsE&list=PL23Revp-82LI-MTPyLtvzTCDl-vJKwjlU)
-----
-* [Gesture Recognizers](https://medium.com/@nayananp/ios-gesture-recognizers-f24b693162f6)
-* [Autolayout vs Autoresizing Mask](https://www.advancedswift.com/autolayout-vs-autoresizing-masks/)
-* [Scrollview with Autolayout](https://medium.com/@barteknowacki/uiscrollview-explained-uiscrollview-with-auto-layout-and-content-layout-guides-tutorial-77cf158a47e3)
 
 
 ### Tutorials and Tutors
