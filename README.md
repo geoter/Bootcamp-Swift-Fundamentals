@@ -55,6 +55,7 @@ Finished project - MVVM: https://github.com/geoter/MVC2MVVM-finished
 ----
 * [Gesture Recognizers](https://medium.com/@nayananp/ios-gesture-recognizers-f24b693162f6)
 * [Autolayout vs Autoresizing Mask](https://www.advancedswift.com/autolayout-vs-autoresizing-masks/)
+* [Autolayout lifecycle - a bit advanced](https://tech.gc.com/demystifying-ios-layout/)
 * [Scrollview with Autolayout](https://medium.com/@barteknowacki/uiscrollview-explained-uiscrollview-with-auto-layout-and-content-layout-guides-tutorial-77cf158a47e3)
 
 ---- 
