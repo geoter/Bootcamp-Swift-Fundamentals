@@ -57,6 +57,9 @@ Finished project - MVVM: https://github.com/geoter/MVC2MVVM-finished
 * [Autolayout vs Autoresizing Mask](https://www.advancedswift.com/autolayout-vs-autoresizing-masks/)
 * [Scrollview with Autolayout](https://medium.com/@barteknowacki/uiscrollview-explained-uiscrollview-with-auto-layout-and-content-layout-guides-tutorial-77cf158a47e3)
 
+---- Build a full app tutorials for practice 
+* [Tutorial 1](https://www.youtube.com/watch?v=JzngncpZLuw)
+
 #### Xcode related
 * [Assets Catalog](https://www.youtube.com/watch?v=tfc8rrOEn2E) -> How to import and use images
 * [String Catalogs](https://www.youtube.com/watch?v=slOQbTacj4k) -> How to Localize-Translate your app
