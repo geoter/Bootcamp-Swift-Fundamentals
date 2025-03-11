@@ -73,6 +73,7 @@ Finished project - MVVM: https://github.com/geoter/MVC2MVVM-finished
 * [Lets Build that App](https://www.youtube.com/@LetsBuildThatApp)
 * [CodeWithChris](https://www.youtube.com/@CodeWithChris/videos)
 * [Karin Prater](https://www.youtube.com/@SwiftyPlace)
+* [Stanford Course](https://www.youtube.com/playlist?list=PL5UTtTrQrh57Mfra_fh3RSmSsIRHsu6Rw)
 
 
 ### Practice
