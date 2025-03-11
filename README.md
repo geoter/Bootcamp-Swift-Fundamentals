@@ -50,11 +50,11 @@ Finished project - MVVM: https://github.com/geoter/MVC2MVVM-finished
 * [Diffable Datasources - TableView](https://www.youtube.com/watch?v=Q2SmtfaxuW8)
 * [CollectionView and TableView](https://www.youtube.com/playlist?list=PL23Revp-82LKu3pw5-0QhLvK_N7cHEZJZ)
 * [CollectionView Compositional Layout](https://www.youtube.com/watch?v=y1uXXVUu43o) <- try to do it
-* [UICollectionView](https://www.letsbuildthatapp.com/courses/Introduction-Auto-Layout/Auto-Layout-How-to-use-Model-View-Controller)
 * [View from XIB](https://medium.com/better-programming/swift-3-creating-a-custom-view-from-a-xib-ecdfe5b3a960)
 * [Autolayout Playlist](https://www.youtube.com/watch?v=27TFuaOpUsE&list=PL23Revp-82LI-MTPyLtvzTCDl-vJKwjlU)
 ----
 * [Gesture Recognizers](https://medium.com/@nayananp/ios-gesture-recognizers-f24b693162f6)
+* [Autolayout + CollectionView](https://www.letsbuildthatapp.com/courses/Introduction-Auto-Layout/Introduction-to-Auto-Layout)
 * [Autolayout vs Autoresizing Mask](https://www.advancedswift.com/autolayout-vs-autoresizing-masks/)
 * [Autolayout lifecycle - a bit advanced](https://tech.gc.com/demystifying-ios-layout/)
 * [Scrollview with Autolayout](https://medium.com/@barteknowacki/uiscrollview-explained-uiscrollview-with-auto-layout-and-content-layout-guides-tutorial-77cf158a47e3)
