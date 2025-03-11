@@ -35,8 +35,8 @@ Swift fundamentals with exercises.
 #### Architecture
 * [MVC to MVVM Architecture - Super important](https://damlacim.medium.com/understanding-the-transition-from-mvc-to-mvvm-in-ios-projects-70387e167ed6)
 
-Starter project (use this not the one on the article): https://github.com/geoter/MVC2MVVM-Starter <br>
-Finished project: https://github.com/geoter/MVC2MVVM-finished
+Starter project - MVC (use this not the one on the article): https://github.com/geoter/MVC2MVVM-Starter <br>
+Finished project - MVVM: https://github.com/geoter/MVC2MVVM-finished
 
 * [MVVM](https://medium.com/dbs-tech-blog/how-to-successfully-implement-model-view-viewmodel-mvvm-architecture-pattern-in-ios-app-8ef97657f180)
 * [MVVM](https://www.youtube.com/watch?v=bFoLlwuzAtk)
