@@ -52,6 +52,7 @@ Finished project - MVVM: https://github.com/geoter/MVC2MVVM-finished
 * [CollectionView Compositional Layout](https://www.youtube.com/watch?v=y1uXXVUu43o) <- try to do it
 * [View from XIB](https://medium.com/better-programming/swift-3-creating-a-custom-view-from-a-xib-ecdfe5b3a960)
 * [Autolayout Playlist](https://www.youtube.com/watch?v=27TFuaOpUsE&list=PL23Revp-82LI-MTPyLtvzTCDl-vJKwjlU)
+* [Main thread](https://rohitdas19.medium.com/unblocking-the-main-thread-a-guide-to-asynchronous-image-handling-in-ios-9164f27fae2d)
 ----
 * [Gesture Recognizers](https://medium.com/@nayananp/ios-gesture-recognizers-f24b693162f6)
 * [Autolayout + CollectionView](https://www.letsbuildthatapp.com/courses/Introduction-Auto-Layout/Introduction-to-Auto-Layout) <- could do this, would help
