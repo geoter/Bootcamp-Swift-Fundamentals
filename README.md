@@ -50,11 +50,11 @@ Finished project - MVVM: https://github.com/geoter/MVC2MVVM-finished
 * [String Catalogs](https://www.youtube.com/watch?v=slOQbTacj4k) -> How to Localize-Translate your app
 * [CocoaPods](https://www.youtube.com/watch?v=QLm_3Ny_Fkg)
 * [Swift Package Manager - SPM](https://www.youtube.com/watch?v=cpsDnGQPPCs)
+* [Xcode files and folders](https://developer.apple.com/documentation/xcode/managing-files-and-folders-in-your-xcode-project) -> "Copy files to destination" is important to understand
+* [iOS Simulator vs Android Emulator](https://www.browserstack.com/emulators-simulators)
 
 ### Theory - Optional
 * [Optionals](https://developer.apple.com/documentation/swift/optional)
-* [Xcode files and folders](https://developer.apple.com/documentation/xcode/managing-files-and-folders-in-your-xcode-project) -> "Copy files to destination" is important to understand
-* [iOS Simulator vs Android Emulator](https://www.browserstack.com/emulators-simulators)
 * [Exercism](https://exercism.org/tracks/swift/concepts)
 
 ### UIKit concepts
