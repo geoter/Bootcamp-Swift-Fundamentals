@@ -33,6 +33,7 @@ Swift fundamentals with exercises.
 
 ### Theory - Need to read these
 * [MVC to MVVM Architecture - Super important](https://damlacim.medium.com/understanding-the-transition-from-mvc-to-mvvm-in-ios-projects-70387e167ed6)
+* [MVVM](https://medium.com/dbs-tech-blog/how-to-successfully-implement-model-view-viewmodel-mvvm-architecture-pattern-in-ios-app-8ef97657f180)
 * [Assets Catalog](https://www.youtube.com/watch?v=tfc8rrOEn2E) -> How to import and use images
 * [String Catalogs](https://www.youtube.com/watch?v=slOQbTacj4k) -> How to Localize-Translate your app
 * [CocoaPods](https://www.youtube.com/watch?v=QLm_3Ny_Fkg)
