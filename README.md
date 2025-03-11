@@ -63,6 +63,7 @@ Finished project - MVVM: https://github.com/geoter/MVC2MVVM-finished
 Build a full app tutorials for practice 
 * [Tutorial 1](https://www.youtube.com/watch?v=JzngncpZLuw)
 * [Netflix clone](https://www.youtube.com/watch?v=KCgYDCKqato)
+* [Rick and Morty](https://www.youtube.com/playlist?list=PL5PR3UyfTWvdl4Ya_2veOB6TM16FXuv4y)
 
 #### Xcode related
 * [Assets Catalog](https://www.youtube.com/watch?v=tfc8rrOEn2E) -> How to import and use images
