@@ -64,6 +64,7 @@ Finished project - MVVM: https://github.com/geoter/MVC2MVVM-finished
 * [View from XIB](https://medium.com/better-programming/swift-3-creating-a-custom-view-from-a-xib-ecdfe5b3a960)
 * [Scrollview with Autolayout](https://medium.com/@barteknowacki/uiscrollview-explained-uiscrollview-with-auto-layout-and-content-layout-guides-tutorial-77cf158a47e3)
 * [Diffable Datasources - TableView](https://www.youtube.com/watch?v=Q2SmtfaxuW8)
+* [CollectionView and TableView](https://www.youtube.com/playlist?list=PL23Revp-82LKu3pw5-0QhLvK_N7cHEZJZ)
 
 ### Tutorials and Tutors
 * [Paul Hudson](https://www.youtube.com/@twostraws)
