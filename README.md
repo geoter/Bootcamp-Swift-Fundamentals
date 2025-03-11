@@ -37,6 +37,7 @@ Swift fundamentals with exercises.
 * [MVVM](https://medium.com/dbs-tech-blog/how-to-successfully-implement-model-view-viewmodel-mvvm-architecture-pattern-in-ios-app-8ef97657f180)
 * [MVVM](https://www.youtube.com/watch?v=bFoLlwuzAtk)
 * [Dependency Injection](https://www.youtube.com/watch?v=l0QehVWz2i0)
+* [Dependecy Injection with Protocols](https://www.youtube.com/watch?v=-ssAWP2rHp4)
 ------
 #### Xcode related
 * [Assets Catalog](https://www.youtube.com/watch?v=tfc8rrOEn2E) -> How to import and use images
