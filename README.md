@@ -42,6 +42,7 @@ Finished project - MVVM: https://github.com/geoter/MVC2MVVM-finished
 * [MVVM](https://www.youtube.com/watch?v=bFoLlwuzAtk)
 * [Dependency Injection](https://www.youtube.com/watch?v=l0QehVWz2i0)
 * [Dependecy Injection with Protocols](https://www.youtube.com/watch?v=-ssAWP2rHp4)
+* [Delegation pattern](https://www.youtube.com/watch?v=qiOKO8ta1n4)
 ------
 #### Xcode related
 * [Assets Catalog](https://www.youtube.com/watch?v=tfc8rrOEn2E) -> How to import and use images
