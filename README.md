@@ -57,6 +57,7 @@ Swift fundamentals with exercises.
 ### Tutorials and Tutors
 * [Paul Hudson](https://www.youtube.com/@twostraws)
 * [Paul Hudson website](https://www.hackingwithswift.com)
+* [Vincent Pradeilles](https://www.youtube.com/@v_pradeilles)
 * [Kodeco](https://www.kodeco.com)
 * [Sean Allen](https://www.youtube.com/@seanallen)
 * [iOS Academy](https://www.youtube.com/@iOSAcademy)
