@@ -36,7 +36,7 @@ Swift fundamentals with exercises.
 * [String Catalogs](https://www.youtube.com/watch?v=slOQbTacj4k) -> How to Localize-Translate your app
 * [CocoaPods](https://www.youtube.com/watch?v=QLm_3Ny_Fkg)
 * [Swift Package Manager - SPM](https://www.youtube.com/watch?v=cpsDnGQPPCs)
-* [MVC to MVVM Architecture] (https://damlacim.medium.com/understanding-the-transition-from-mvc-to-mvvm-in-ios-projects-70387e167ed6)
+* [MVC to MVVM Architecture](https://damlacim.medium.com/understanding-the-transition-from-mvc-to-mvvm-in-ios-projects-70387e167ed6)
 
 ### Theory - Optional
 * [Optionals](https://developer.apple.com/documentation/swift/optional)
