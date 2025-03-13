@@ -43,7 +43,7 @@ Finished project - MVVM: https://github.com/geoter/MVC2MVVM-finished
 * [Dependency Injection](https://www.youtube.com/watch?v=l0QehVWz2i0)
 * [Dependecy Injection with Protocols](https://www.youtube.com/watch?v=-ssAWP2rHp4)
 * [Delegation pattern](https://www.youtube.com/watch?v=qiOKO8ta1n4)
-* [Delegation vs Closures](https://www.youtube.com/watch?v=nsWXSnlMMyA)
+* [Delegation vs Closures](https://www.youtube.com/watch?v=nsWXSnlMMyA) <- super important concepts
 ------
 
 ### UIKit concepts (Must read)
