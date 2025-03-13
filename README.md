@@ -93,6 +93,7 @@ Build a full app tutorials for practice
 * [Karin Prater](https://www.youtube.com/@SwiftyPlace)
 * [Stanford Course](https://www.youtube.com/playlist?list=PL5UTtTrQrh57Mfra_fh3RSmSsIRHsu6Rw)
 * [Swift by Sundell](https://www.swiftbysundell.com)
+* [Avander Lee](www.avanderlee.com)
 
 
 ### Practice
