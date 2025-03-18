@@ -43,26 +43,42 @@ Finished project - MVVM: https://github.com/geoter/MVC2MVVM-finished
 * [Dependency Injection](https://www.youtube.com/watch?v=l0QehVWz2i0)
 * [Dependecy Injection with Protocols](https://www.youtube.com/watch?v=-ssAWP2rHp4)
 * [Delegation pattern](https://www.youtube.com/watch?v=qiOKO8ta1n4)
-* [Delegation vs Closures](https://www.youtube.com/watch?v=nsWXSnlMMyA)
+* [Delegation vs Closures](https://www.youtube.com/watch?v=nsWXSnlMMyA) <- super important concepts
 ------
+
+### UIKit concepts (Must read)
+* [Diffable Datasources - TableView](https://www.youtube.com/watch?v=Q2SmtfaxuW8)
+* [CollectionView and TableView](https://www.youtube.com/playlist?list=PL23Revp-82LKu3pw5-0QhLvK_N7cHEZJZ)
+* [CollectionView Compositional Layout](https://www.youtube.com/watch?v=y1uXXVUu43o) <- try to do it
+* [View from XIB](https://medium.com/better-programming/swift-3-creating-a-custom-view-from-a-xib-ecdfe5b3a960)
+* [Autolayout Playlist](https://www.youtube.com/watch?v=27TFuaOpUsE&list=PL23Revp-82LI-MTPyLtvzTCDl-vJKwjlU)
+* [Main thread](https://rohitdas19.medium.com/unblocking-the-main-thread-a-guide-to-asynchronous-image-handling-in-ios-9164f27fae2d)
+----
+* [Gesture Recognizers](https://medium.com/@nayananp/ios-gesture-recognizers-f24b693162f6)
+* [Autolayout + CollectionView](https://www.letsbuildthatapp.com/courses/Introduction-Auto-Layout/Introduction-to-Auto-Layout) <- could do this, would help
+* [Autolayout vs Autoresizing Mask](https://www.advancedswift.com/autolayout-vs-autoresizing-masks/)
+* [Autolayout lifecycle - a bit advanced](https://tech.gc.com/demystifying-ios-layout/)
+* [Scrollview with Autolayout](https://medium.com/@barteknowacki/uiscrollview-explained-uiscrollview-with-auto-layout-and-content-layout-guides-tutorial-77cf158a47e3)
+
+---- 
+Build a full app tutorials for practice 
+* [Tutorial 1](https://www.youtube.com/watch?v=JzngncpZLuw)
+* [Netflix clone](https://www.youtube.com/watch?v=KCgYDCKqato)
+* [Rick and Morty](https://www.youtube.com/playlist?list=PL5PR3UyfTWvdl4Ya_2veOB6TM16FXuv4y)
+
 #### Xcode related
 * [Assets Catalog](https://www.youtube.com/watch?v=tfc8rrOEn2E) -> How to import and use images
 * [String Catalogs](https://www.youtube.com/watch?v=slOQbTacj4k) -> How to Localize-Translate your app
 * [CocoaPods](https://www.youtube.com/watch?v=QLm_3Ny_Fkg)
 * [Swift Package Manager - SPM](https://www.youtube.com/watch?v=cpsDnGQPPCs)
+* [Xcode files and folders](https://developer.apple.com/documentation/xcode/managing-files-and-folders-in-your-xcode-project) -> "Copy files to destination" is important to understand
+* [iOS Simulator vs Android Emulator](https://www.browserstack.com/emulators-simulators)
 
 ### Theory - Optional
 * [Optionals](https://developer.apple.com/documentation/swift/optional)
-* [Xcode files and folders](https://developer.apple.com/documentation/xcode/managing-files-and-folders-in-your-xcode-project) -> "Copy files to destination" is important to understand
-* [iOS Simulator vs Android Emulator](https://www.browserstack.com/emulators-simulators)
+* [Generics + UIKit](https://www.youtube.com/watch?v=K0IO4QvFxnM)
 * [Exercism](https://exercism.org/tracks/swift/concepts)
 
-### UIKit concepts
-* [Gesture Recognizers](https://medium.com/@nayananp/ios-gesture-recognizers-f24b693162f6)
-* [Autolayout vs Autoresizing Mask](https://www.advancedswift.com/autolayout-vs-autoresizing-masks/)
-* [Autolayout Playlist](https://www.youtube.com/watch?v=27TFuaOpUsE&list=PL23Revp-82LI-MTPyLtvzTCDl-vJKwjlU)
-* [View from XIB](https://medium.com/better-programming/swift-3-creating-a-custom-view-from-a-xib-ecdfe5b3a960)
-* [Scrollview with Autolayout](https://medium.com/@barteknowacki/uiscrollview-explained-uiscrollview-with-auto-layout-and-content-layout-guides-tutorial-77cf158a47e3)
 
 ### Tutorials and Tutors
 * [Paul Hudson](https://www.youtube.com/@twostraws)
@@ -76,6 +92,8 @@ Finished project - MVVM: https://github.com/geoter/MVC2MVVM-finished
 * [CodeWithChris](https://www.youtube.com/@CodeWithChris/videos)
 * [Karin Prater](https://www.youtube.com/@SwiftyPlace)
 * [Stanford Course](https://www.youtube.com/playlist?list=PL5UTtTrQrh57Mfra_fh3RSmSsIRHsu6Rw)
+* [Swift by Sundell](https://www.swiftbysundell.com)
+* [Avander Lee](www.avanderlee.com)
 
 
 ### Practice
