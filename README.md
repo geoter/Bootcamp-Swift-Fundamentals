@@ -22,6 +22,7 @@ Swift fundamentals with exercises.
 10. [Protocols](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/10.%20Protocols.md)
 11. [Generics](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/11.%20Generics.md)
 12. [Memory management](https://github.com/geoter/Swift-Fundamentals/blob/main/theory/12.%20Memory%20Management.md)
+12. [Interview Questions](https://github.com/geoter/Bootcamp-Swift-Fundamentals/blob/main/theory/13.%20Interview%20Questions.md)
 
 
 ## Exercises 
